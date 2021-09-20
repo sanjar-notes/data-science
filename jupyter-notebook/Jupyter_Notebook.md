@@ -3,6 +3,13 @@
 **How**: Succeeded from the [Ipython](https://ipython.org/) project.
 
 **What**:
+
+###### Installation
+1. If you have Python3 installed skip this, Install [Anaconda](https://anaconda.org/).
+2. Install Jupyter Notebook, using pip. ``pip install notebook``
+3. Run in terminal, ``jupyter notebook``.
+4. Ignore the terminal and follow from the automatically opened browser.
+
 ###### There are two modes:
 - *Command* mode: control cells
 - *Edit* mode: edit cell content
