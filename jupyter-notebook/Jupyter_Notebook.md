@@ -2,7 +2,7 @@
 
 **How**: Succeeded from the [Ipython](https://ipython.org/) project.
 
-**What**: 
+**What**:
 ###### There are two modes:
 - *Command* mode: control cells
 - *Edit* mode: edit cell content
@@ -20,10 +20,10 @@ All functions are available on top bar.
 
 - Edit mode: <kbd>Enter</kbd> on the selected cell
 
-- Execute cell: <kbd>Ctrl</kbd>+ <kbd>Enter</kbd>
+- Execute cell: <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
 
 ---
-###### Cell execution order is shows on cells in square brackets. 
+###### Cell execution order is shows on cells in square brackets.
 So, **cell order is not necessarily the execution order.**
 
 ---
@@ -45,6 +45,6 @@ The notebook can be downloaded as:
 - HTML
 - LaTeX
 - PDF via HTML, LaTeX
-- Notebook(`.ipynb`)
+- Notebook (`.ipynb`)
 
 ### Useful for exploring data, computing in general and for visualization!
