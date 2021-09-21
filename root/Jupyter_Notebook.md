@@ -6,7 +6,7 @@
 
 ###### Installation
 1. If you have Python3 installed skip this, Install [Anaconda](https://anaconda.org/).
-2. Install Jupyter Notebook, using pip. ``pip install notebook``
+2. Install Jupyter Notebook, using pip. ``pip install jupyterlab``
 3. Run in terminal, ``jupyter notebook``.
 4. Ignore the terminal and follow from the automatically opened browser.
 
@@ -18,7 +18,9 @@
 ###### Content is of two type:
 - Code
 - Markdown
-Switch using the top bar.
+
+Switch Code/Markdown using the top bar function or shortcut <kbd>Y</kbd>/<kbd>M</kbd>.
+
 ---
 All functions are available on top bar.
 
@@ -44,7 +46,7 @@ So, **cell order is not necessarily the execution order.**
 	- `%%bash`
 	- `%%timeit` (add this as the first line and see the runtime before the output)
 ---
-###### You can use asterisk (!) to add bash commands like `ls, cat, nano`
+###### Use asterisk (!) to use bash commands like `ls`, `cat`, `nano`.
 ---
 ###### Exporting the notebook
 The notebook can be downloaded as:
